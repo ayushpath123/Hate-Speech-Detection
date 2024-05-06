@@ -7,13 +7,13 @@ Group Members
 HOW TO USE THE PROJECT ?
 
 
-#Requirements 
+#Requirements :
 Python Latest Version
 
-#Libraries
+#Libraries :
 Download the required Libraries from the libraries.txt
 
-#Installation
+#Installation :
 Clone the Repository in Local Machine
 Load the Datasets
 Once the model is trained and evaluated satisfactorily, deploy it for real-world use. This may involve integrating the model into an application or service that can analyze internet memes for hate speech.
