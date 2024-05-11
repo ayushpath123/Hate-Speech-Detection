@@ -10,8 +10,6 @@ HOW TO USE THE PROJECT ?
 #Requirements :
 Python Latest Version
 
-#Libraries :
-Download the required Libraries from the libraries.txt
 
 #Installation :
 Clone the Repository in Local Machine
